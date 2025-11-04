@@ -1,0 +1,12 @@
+
+@import "tailwindcss";
+
+/* globals.css */
+
+.font-title {
+  font-family: var(--font-poppins), sans-serif;
+}
+
+.font-text {
+  font-family: var(--font-inter), sans-serif;
+}
